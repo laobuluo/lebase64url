@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: LeBase64URL
- * Plugin URI:  https://www.lezaiyun.com/861.html
+ * Plugin URI:  https://www.laojiang.me/6113.html
  * Description: 一个适用于WordPress的外链接跳转将文章中的外部链接转换为base64加密的格式，支持nofollow属性和白名单设置。公众号：<span style="color: red;">老蒋朋友圈</span>
  * Version: 1.0.0
  * Author: 老蒋和他的小伙伴
- * Author URI: https://www.lezaiyun.com
+ * Author URI: https://www.laojiang.me
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: lebase64url
@@ -268,7 +268,7 @@ class LeBase64URL {
     }
 
     public function section_info() {
-        echo '在这里，我们需要配置LeBase64URL插件的相关选项。<a href="https://www.lezaiyun.com/861.html" target="_blank">插件介绍</a>（关注公众号：<span style="color: red;">老蒋朋友圈</span>）';
+        echo '在这里，我们需要配置LeBase64URL插件的相关选项。<a href="hhttps://www.laojiang.me/6113.html" target="_blank">插件介绍</a>（关注公众号：<span style="color: red;">老蒋朋友圈</span>）';
     }
 
     public function enabled_callback() {

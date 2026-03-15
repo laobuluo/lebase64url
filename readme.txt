@@ -1,7 +1,7 @@
 === LeBase64URL ===
 
 Contributors: laobuluo
-Donate link: https://www.lezaiyun.com/donate/
+Donate link: https://www.laojiang.me/donate/
 Tags: WordPress内链加密URL
 Requires at least: 4.5.0
 Tested up to: 6.7.2
@@ -22,7 +22,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 * 可以设置中间页跳转过度
 * 可以设置排除的网站网址
 * 可以设置NOFOLLOW或者_BLANK新窗口跳转
-* 插件安装和介绍：https://www.lezaiyun.com/861.html
+* 插件安装和介绍：https://www.laojiang.me/6113.html
 
 ## 网站支持
 
